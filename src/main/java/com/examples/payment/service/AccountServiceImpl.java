@@ -1,7 +1,6 @@
-package com.examples.service;
+package com.examples.payment.service;
 
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.examples.payment.dao.AccountDaoImpl;
 import com.examples.payment.model.Account;

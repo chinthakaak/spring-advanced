@@ -1,4 +1,4 @@
-package com.examples.dao;
+package com.examples.payment.dao;
 
 public interface AccountDao {
 

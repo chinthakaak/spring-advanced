@@ -1,4 +1,4 @@
-package com.examples.controller;
+package com.examples.payment.controller;
 
 public class AccountServiceController {
 

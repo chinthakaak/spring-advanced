@@ -1,4 +1,4 @@
-package com.examples.model;
+package com.examples.payment.model;
 
 import javax.persistence.Entity;
 

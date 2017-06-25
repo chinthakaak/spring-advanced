@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-advanced" />
         <module name="springa-advanced" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-advanced" target="1.5" />
       <module name="springa-advanced" target="1.5" />
     </bytecodeTargetLevel>
   </component>

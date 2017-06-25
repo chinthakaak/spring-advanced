@@ -1,4 +1,4 @@
-package com.examples.service;
+package com.examples.payment.service;
 
 import com.examples.payment.model.Account;
 

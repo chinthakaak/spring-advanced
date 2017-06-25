@@ -1,4 +1,4 @@
-package com.examples.service;
+package com.examples.payment.service;
 
 public class PaymentServiceImpl extends PaymentService {
 
